@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "るしからの挑戦状 β",
+    "supported_formats": {
+      "data": 101,
+      "resource": 84
+    }
+  }
+}

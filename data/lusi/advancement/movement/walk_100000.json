@@ -1,0 +1,17 @@
+{
+  "parent": "lusi:movement/walk_50000",
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_boots"
+    },
+    "title": "旅人 Ⅱ",
+    "description": "100,000m歩く",
+    "frame": "task"
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    
+    }
+  }
+}

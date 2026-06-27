@@ -1,0 +1,17 @@
+{
+  "parent": "lusi:movement/walk_100000",
+  "display": {
+    "icon": {
+      "id": "minecraft:golden_boots"
+    },
+    "title": "旅人 Ⅲ",
+    "description": "250,000m歩く",
+    "frame": "task"
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "lusi:movement/walk_250000",
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond_boots"
+    },
+    "title": "旅人 Ⅳ",
+    "description": "1,000,000m歩く",
+    "frame": "task"
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    
+    }
+  }
+}

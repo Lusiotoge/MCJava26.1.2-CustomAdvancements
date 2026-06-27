@@ -1,0 +1,17 @@
+{
+  "parent": "lusi:movement/walk_25000",
+  "display": {
+    "icon": {
+      "id": "minecraft:chainmail_boots"
+    },
+    "title": "旅人 Ⅰ",
+    "description": "50,000m歩く",
+    "frame": "task"
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    
+    }
+  }
+}

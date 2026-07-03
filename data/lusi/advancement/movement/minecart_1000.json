@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:minecart"
+    },
+    "title": "いい旅夢気分",
+    "description": "トロッコで1,000m移動する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:movement/minecart_12000",
+  "display": {
+    "icon": {
+      "id": "minecraft:powered_rail"
+    },
+    "title": "線路の冒険者Ⅳ",
+    "description": "トロッコで3,800m移動する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

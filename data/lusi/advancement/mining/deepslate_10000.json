@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/deepslate_5000",
+  "display": {
+    "icon": {
+      "id": "minecraft:deepslate"
+    },
+    "title": "深層採掘 Ⅳ",
+    "description": "深層岩を10000個採掘する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

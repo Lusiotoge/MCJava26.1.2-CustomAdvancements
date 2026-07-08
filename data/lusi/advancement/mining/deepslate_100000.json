@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/deepslate_50000",
+  "display": {
+    "icon": {
+      "id": "minecraft:deepslate"
+    },
+    "title": "新・深層採掘士",
+    "description": "深層岩を100000個採掘する",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

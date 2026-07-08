@@ -1,5 +1,5 @@
 {
-  "parent": "lusi:action/jump_10000",
+  "parent": "lusi:movement/jump_10000",
   "display": {
     "icon": {
       "id": "minecraft:rabbit_foot"

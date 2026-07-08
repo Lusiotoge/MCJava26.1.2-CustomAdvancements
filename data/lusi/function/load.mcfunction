@@ -28,3 +28,13 @@ scoreboard objectives add lusi_sneak minecraft.custom:minecraft.sneak_time
 scoreboard objectives add lusi_sneak_start dummy
 scoreboard objectives add lusi_sneak_diff dummy
 scoreboard objectives add lusi_sneak_initialized dummy
+
+scoreboard objectives add lusi_stone minecraft.mined:minecraft.stone
+scoreboard objectives add lusi_stone_start dummy
+scoreboard objectives add lusi_stone_diff dummy
+scoreboard objectives add lusi_stone_initialized dummy
+
+scoreboard objectives add lusi_stone minecraft.mined:minecraft.stone
+scoreboard objectives add lusi_stone_start dummy
+scoreboard objectives add lusi_stone_diff dummy
+scoreboard objectives add lusi_stone_initialized dummy

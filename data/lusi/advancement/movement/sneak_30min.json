@@ -1,5 +1,5 @@
 {
-  "parent": "lusi:action/sneak_15min",
+  "parent": "lusi:movement/sneak_15min",
   "display": {
     "icon": {
       "id": "minecraft:sculk_sensor"

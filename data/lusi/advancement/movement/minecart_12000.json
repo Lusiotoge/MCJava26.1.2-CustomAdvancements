@@ -5,7 +5,7 @@
       "id": "minecraft:powered_rail"
     },
     "title": "線路の冒険者Ⅲ",
-    "description": "トロッコで3,800m移動する",
+    "description": "トロッコで12,000m移動する",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true

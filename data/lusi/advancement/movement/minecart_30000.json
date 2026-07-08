@@ -6,7 +6,7 @@
     },
     "title": "線路の冒険者Ⅳ",
     "description": "トロッコで30,000m移動する",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

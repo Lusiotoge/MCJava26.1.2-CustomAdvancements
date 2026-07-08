@@ -6,7 +6,7 @@
     },
     "title": "新・石工",
     "description": "石を100000個採掘する",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

@@ -6,7 +6,7 @@
     },
     "title": "石工 Ⅵ",
     "description": "石を50000個採掘する",
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
   },

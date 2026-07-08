@@ -6,7 +6,7 @@
     },
     "title": "伝説のスイマー",
     "description": "1,000,000,m泳ぐ",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

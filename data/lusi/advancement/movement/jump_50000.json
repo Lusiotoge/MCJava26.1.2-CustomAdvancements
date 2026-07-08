@@ -6,7 +6,7 @@
     },
     "title": "跳躍王",
     "description": "50,000回ジャンプする",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

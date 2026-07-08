@@ -6,7 +6,7 @@
     },
     "title": "影の潜伏者",
     "description": "120分間スニークする",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

@@ -6,7 +6,7 @@
     },
     "title": "天空の覇者",
     "description": "エリトラで32,000m飛行する",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

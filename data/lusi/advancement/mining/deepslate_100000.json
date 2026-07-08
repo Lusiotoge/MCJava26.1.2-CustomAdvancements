@@ -6,7 +6,7 @@
     },
     "title": "新・深層採掘士",
     "description": "深層岩を100000個採掘する",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

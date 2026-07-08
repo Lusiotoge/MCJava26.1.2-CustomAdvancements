@@ -6,7 +6,7 @@
     },
     "title": "大空の冒険者",
     "description": "エリトラで16,000m飛行する",
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
   },

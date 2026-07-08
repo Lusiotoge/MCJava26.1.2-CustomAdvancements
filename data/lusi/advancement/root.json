@@ -5,7 +5,7 @@
     },
     "title": "るしからの挑戦状 β",
     "description": "Welcome!",
-    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "background": "minecraft:block/netherite_block",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true

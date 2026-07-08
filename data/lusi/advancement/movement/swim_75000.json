@@ -6,7 +6,7 @@
     },
     "title": "熟練スイマーⅢ",
     "description": "75,000m泳ぐ",
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
   },

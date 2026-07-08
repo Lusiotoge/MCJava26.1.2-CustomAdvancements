@@ -6,7 +6,7 @@
     },
     "title": "線路の冒険者Ⅲ",
     "description": "トロッコで12,000m移動する",
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
   },

@@ -13,3 +13,8 @@ scoreboard objectives add lusi_minecart minecraft.custom:minecraft.minecart_one_
 scoreboard objectives add lusi_minecart_start dummy
 scoreboard objectives add lusi_minecart_diff dummy
 scoreboard objectives add lusi_minecart_initialized dummy
+
+scoreboard objectives add lusi_aviate minecraft.custom:minecraft.aviate_one_cm
+scoreboard objectives add lusi_aviate_start dummy
+scoreboard objectives add lusi_aviate_diff dummy
+scoreboard objectives add lusi_aviate_initialized dummy

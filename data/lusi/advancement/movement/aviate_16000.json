@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:movement/aviate_10000",
+  "display": {
+    "icon": {
+      "id": "minecraft:elytra"
+    },
+    "title": "大空の冒険者",
+    "description": "エリトラで16,000m飛行する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

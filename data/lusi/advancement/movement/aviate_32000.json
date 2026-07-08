@@ -1,11 +1,11 @@
 {
-  "parent": "lusi:movement/swim_75000",
+  "parent": "lusi:movement/aviate_16000",
   "display": {
     "icon": {
-      "id": "minecraft:water_bucket"
+      "id": "minecraft:elytra"
     },
-    "title": "伝説のスイマー",
-    "description": "1,000,000,m泳ぐ",
+    "title": "天空の覇者",
+    "description": "エリトラで32,000m飛行する",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

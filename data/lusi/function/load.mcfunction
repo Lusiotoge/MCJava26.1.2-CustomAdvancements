@@ -18,3 +18,13 @@ scoreboard objectives add lusi_aviate minecraft.custom:minecraft.aviate_one_cm
 scoreboard objectives add lusi_aviate_start dummy
 scoreboard objectives add lusi_aviate_diff dummy
 scoreboard objectives add lusi_aviate_initialized dummy
+
+scoreboard objectives add lusi_jump minecraft.custom:minecraft.jump
+scoreboard objectives add lusi_jump_start dummy
+scoreboard objectives add lusi_jump_diff dummy
+scoreboard objectives add lusi_jump_initialized dummy
+
+scoreboard objectives add lusi_sneak minecraft.custom:minecraft.sneak_time
+scoreboard objectives add lusi_sneak_start dummy
+scoreboard objectives add lusi_sneak_diff dummy
+scoreboard objectives add lusi_sneak_initialized dummy

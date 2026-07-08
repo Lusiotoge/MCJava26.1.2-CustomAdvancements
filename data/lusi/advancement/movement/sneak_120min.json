@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:action/sneak_30min",
+  "display": {
+    "icon": {
+      "id": "minecraft:sculk_sensor"
+    },
+    "title": "影の潜伏者",
+    "description": "60分間スニークする",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

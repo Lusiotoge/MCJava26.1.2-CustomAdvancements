@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:action/jump_5000",
+  "display": {
+    "icon": {
+      "id": "minecraft:rabbit_foot"
+    },
+    "title": "Jump!",
+    "description": "10,000回ジャンプする",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

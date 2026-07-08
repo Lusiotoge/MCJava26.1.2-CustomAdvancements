@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:action/sneak_15min",
+  "display": {
+    "icon": {
+      "id": "minecraft:sculk_sensor"
+    },
+    "title": "気配を消す者",
+    "description": "30分間スニークする",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

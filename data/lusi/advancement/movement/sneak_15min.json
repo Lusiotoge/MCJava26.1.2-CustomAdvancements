@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:action/sneak_5min",
+  "display": {
+    "icon": {
+      "id": "minecraft:sculk_sensor"
+    },
+    "title": "静かな足取り",
+    "description": "15分間スニークする",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

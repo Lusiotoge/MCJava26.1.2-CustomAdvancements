@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/gold_50",
+  "display": {
+    "icon": {
+      "id": "minecraft:gold_ingot"
+    },
+    "title": "金鉱夫 Ⅳ",
+    "description": "金鉱石を100個採掘する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

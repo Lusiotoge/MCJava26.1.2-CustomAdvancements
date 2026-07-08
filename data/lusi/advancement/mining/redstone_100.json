@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/redstone_50",
+  "display": {
+    "icon": {
+      "id": "minecraft:redstone"
+    },
+    "title": "回路職人 Ⅲ",
+    "description": "レッドストーン鉱石を100個採掘する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

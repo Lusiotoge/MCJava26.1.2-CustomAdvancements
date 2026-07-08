@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/iron_1000",
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_ingot"
+    },
+    "title": "鉄鉱夫 Ⅵ",
+    "description": "鉄鉱石を2500採掘する",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

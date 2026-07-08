@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/coal_1000",
+  "display": {
+    "icon": {
+      "id": "minecraft:coal"
+    },
+    "title": "炭鉱夫 ",
+    "description": "石炭鉱石を2500個採掘する",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

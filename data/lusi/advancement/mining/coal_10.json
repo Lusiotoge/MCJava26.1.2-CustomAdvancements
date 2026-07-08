@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:coal"
+    },
+    "title": "燃料確保",
+    "description": "石炭鉱石を10個採掘する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

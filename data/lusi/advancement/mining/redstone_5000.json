@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/redstone_2500",
+  "display": {
+    "icon": {
+      "id": "minecraft:redstone"
+    },
+    "title": "新・回路職人",
+    "description": "レッドストーン鉱石を5000個採掘する",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

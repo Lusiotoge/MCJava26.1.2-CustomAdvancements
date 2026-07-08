@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/gold_250",
+  "display": {
+    "icon": {
+      "id": "minecraft:gold_ingot"
+    },
+    "title": "新・金鉱夫",
+    "description": "金鉱石を500個採掘する",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

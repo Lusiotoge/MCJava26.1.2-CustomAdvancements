@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_ingot"
+    },
+    "title": "鉄鉱石発見",
+    "description": "鉄鉱石を10個採掘する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -64,6 +64,17 @@ function lusi:fishing/rare_fish
 # 釣りで宝物(名札、弓、釣り竿、エンチャ本、殻)を釣った回数
 function lusi:fishing/treasure
 
+# ゾンビ討伐数
+function lusi:combat/zombie
+
+# スケルトン討伐数
+# クリーパー討伐数
+# クモ討伐数
+# エンダーマン討伐数
+# ウィザー討伐数
+# エンドラ討伐数
+# ウォーデン討伐数
+
 # 次tick予約
 schedule function lusi:tick 1t replace
 

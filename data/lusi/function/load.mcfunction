@@ -172,3 +172,18 @@ scoreboard objectives add lusi_treasure dummy
 scoreboard objectives add lusi_treasure_start dummy
 scoreboard objectives add lusi_treasure_diff dummy
 scoreboard objectives add lusi_treasure_initialized dummy
+
+# ゾンビ討伐数
+scoreboard objectives add lusi_zombie dummy
+
+scoreboard objectives add lusi_zombie_start dummy
+scoreboard objectives add lusi_zombie_diff dummy
+scoreboard objectives add lusi_zombie_initialized dummy
+
+# スケルトン討伐数
+# クリーパー討伐数
+# クモ討伐数
+# エンダーマン討伐数
+# ウィザー討伐数
+# エンドラ討伐数
+# ウォーデン討伐数

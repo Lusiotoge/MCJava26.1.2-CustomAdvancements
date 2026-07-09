@@ -1,0 +1,16 @@
+{
+  "parent": "lusi:combat/root",
+  "criteria": {
+    "kill_zombie": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:zombie"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "lusi:combat/kill_zombie"
+  }
+}

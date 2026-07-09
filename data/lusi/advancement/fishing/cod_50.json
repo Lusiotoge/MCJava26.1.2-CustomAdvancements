@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:fishing/cod_25",
+  "display": {
+    "icon": {
+      "id": "minecraft:cod"
+    },
+    "title": "タラのアクアパッツァ",
+    "description": "鱈を50匹釣る",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

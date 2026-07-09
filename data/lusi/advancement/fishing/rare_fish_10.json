@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:fishing/rare_fish_1",
+  "display": {
+    "icon": {
+      "id": "minecraft:pufferfish"
+    },
+    "title": "色鮮やかな釣果",
+    "description": "フグまたは熱帯魚を10匹釣る",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

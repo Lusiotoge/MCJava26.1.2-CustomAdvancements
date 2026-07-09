@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:fishing/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:pufferfish"
+    },
+    "title": "珍しい一匹",
+    "description": "フグまたは熱帯魚を1匹釣る",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:fishing/root",
+  "criteria": {
+    "cod": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:cod"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "lusi:fishing/catch_cod"
+  }
+}

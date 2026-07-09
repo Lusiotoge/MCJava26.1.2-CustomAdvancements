@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:fishing/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:enchanted_book"
+    },
+    "title": "お宝発見！",
+    "description": "宝物(名札、弓、釣り竿、エンチャ本、オウムガイの殻)を1個釣る",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

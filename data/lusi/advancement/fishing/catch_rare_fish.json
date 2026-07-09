@@ -1,0 +1,19 @@
+{
+  "parent": "lusi:fishing/root",
+  "criteria": {
+    "rare_fish": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:pufferfish",
+            "minecraft:tropical_fish"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "lusi:fishing/catch_rare_fish"
+  }
+}

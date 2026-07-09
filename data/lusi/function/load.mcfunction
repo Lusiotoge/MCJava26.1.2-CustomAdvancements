@@ -144,3 +144,31 @@ scoreboard objectives add lusi_trade minecraft.custom:minecraft.traded_with_vill
 scoreboard objectives add lusi_trade_start dummy
 scoreboard objectives add lusi_trade_diff dummy
 scoreboard objectives add lusi_trade_initialized dummy
+
+# タラを釣った回数
+scoreboard objectives add lusi_cod dummy
+
+scoreboard objectives add lusi_cod_start dummy
+scoreboard objectives add lusi_cod_diff dummy
+scoreboard objectives add lusi_cod_initialized dummy
+
+# 鮭を釣った回数
+scoreboard objectives add lusi_salmon dummy
+
+scoreboard objectives add lusi_salmon_start dummy
+scoreboard objectives add lusi_salmon_diff dummy
+scoreboard objectives add lusi_salmon_initialized dummy
+
+# フグ、熱帯魚を釣った回数
+scoreboard objectives add lusi_rare_fish dummy
+
+scoreboard objectives add lusi_rare_fish_start dummy
+scoreboard objectives add lusi_rare_fish_diff dummy
+scoreboard objectives add lusi_rare_fish_initialized dummy
+
+# 釣りで宝物(名札、弓、釣り竿、エンチャ本、殻)を釣った回数
+scoreboard objectives add lusi_treasure dummy
+
+scoreboard objectives add lusi_treasure_start dummy
+scoreboard objectives add lusi_treasure_diff dummy
+scoreboard objectives add lusi_treasure_initialized dummy

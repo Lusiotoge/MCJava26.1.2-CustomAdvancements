@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:fishing/rare_fish_1000",
+  "display": {
+    "icon": {
+      "id": "minecraft:pufferfish"
+    },
+    "title": "伝説の珍魚コレクター",
+    "description": "フグまたは熱帯魚を5000匹釣る",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

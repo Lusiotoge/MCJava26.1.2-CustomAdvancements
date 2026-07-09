@@ -1,0 +1,23 @@
+{
+  "parent": "lusi:fishing/root",
+  "criteria": {
+    "treasure": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:bow",
+            "minecraft:fishing_rod",
+            "minecraft:enchanted_book",
+            "minecraft:name_tag",
+            "minecraft:nautilus_shell",
+            "minecraft:saddle"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "lusi:fishing/catch_treasure"
+  }
+}

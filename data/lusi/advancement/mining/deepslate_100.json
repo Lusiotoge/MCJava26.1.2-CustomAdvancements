@@ -1,5 +1,5 @@
 {
-  "parent": "lusi:root",
+  "parent": "lusi:mining/root",
   "display": {
     "icon": {
       "id": "minecraft:deepslate"

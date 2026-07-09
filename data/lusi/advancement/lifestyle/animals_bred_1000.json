@@ -1,12 +1,12 @@
 {
-  "parent": "lusi:mining/root",
+  "parent": "lusi:lifestyle/animals_bred_500",
   "display": {
     "icon": {
-      "id": "minecraft:lapis_lazuli"
+      "id": "minecraft:wheat"
     },
-    "title": "青い鉱石",
-    "description": "ラピスラズリを1個採掘する",
-    "frame": "task",
+    "title": "命の管理人",
+    "description": "動物を1000回繁殖させる",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
   },

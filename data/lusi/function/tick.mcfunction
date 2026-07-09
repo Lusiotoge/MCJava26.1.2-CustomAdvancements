@@ -43,5 +43,16 @@ function lusi:mining/quartz
 # 古代の残骸採掘処理
 function lusi:mining/ancient_debris
 
+# ベッドでの睡眠回数
+function lusi:lifestyle/sleep
+
+# 動物の繁殖回数
+function lusi:lifestyle/animals_bred
+
+# 村人との取引回数
+function lusi:lifestyle/trade
+
 # 次tick予約
 schedule function lusi:tick 1t replace
+
+

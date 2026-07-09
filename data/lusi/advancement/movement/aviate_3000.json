@@ -1,5 +1,5 @@
 {
-  "parent": "lusi:root",
+  "parent": "lusi:movement/root",
   "display": {
     "icon": {
       "id": "minecraft:elytra"

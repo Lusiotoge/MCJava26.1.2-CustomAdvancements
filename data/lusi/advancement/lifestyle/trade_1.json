@@ -1,17 +1,17 @@
 {
-  "parent": "lusi:movement/root",
+  "parent": "lusi:lifestyle/root",
   "display": {
     "icon": {
-      "id": "minecraft:leather_boots"
+      "id": "minecraft:emerald"
     },
-    "title": "旅の始まり",
-    "description": "25,000m歩く",
+    "title": "初めてのお客様",
+    "description": "村人と1回取引する",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true
   },
   "criteria": {
-    "manual": {
+    "requirement": {
       "trigger": "minecraft:impossible"
     }
   }

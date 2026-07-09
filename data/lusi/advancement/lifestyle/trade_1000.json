@@ -1,12 +1,12 @@
 {
-  "parent": "lusi:mining/root",
+  "parent": "lusi:lifestyle/trade_500",
   "display": {
     "icon": {
-      "id": "minecraft:lapis_lazuli"
+      "id": "minecraft:emerald"
     },
-    "title": "青い鉱石",
-    "description": "ラピスラズリを1個採掘する",
-    "frame": "task",
+    "title": "交易王",
+    "description": "村人と1000回取引する",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
   },

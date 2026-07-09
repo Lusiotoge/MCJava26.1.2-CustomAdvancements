@@ -1,12 +1,12 @@
 {
-  "parent": "lusi:mining/root",
+  "parent": "lusi:lifestyle/sleep_1000",
   "display": {
     "icon": {
-      "id": "minecraft:lapis_lazuli"
+      "id": "minecraft:red_bed"
     },
-    "title": "青い鉱石",
-    "description": "ラピスラズリを1個採掘する",
-    "frame": "task",
+    "title": "永遠の眠り",
+    "description": "ベッドで5000回眠る",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true
   },

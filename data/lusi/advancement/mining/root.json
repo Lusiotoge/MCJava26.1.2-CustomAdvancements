@@ -1,14 +1,14 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:book"
+      "id": "minecraft:netherite_pickaxe"
     },
-    "title": "るしからの挑戦状 β",
+    "title": "るしからの挑戦状 β 採掘編",
     "description": "Welcome!",
     "background": "minecraft:block/netherite_block",
     "frame": "task",
-    "show_toast": true,
-    "announce_to_chat": true
+    "show_toast": false,
+    "announce_to_chat": false
   },
   "criteria": {
     "tick": {

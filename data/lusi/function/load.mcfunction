@@ -123,3 +123,24 @@ scoreboard objectives add lusi_ancient_debris minecraft.mined:minecraft.ancient_
 scoreboard objectives add lusi_ancient_debris_start dummy
 scoreboard objectives add lusi_ancient_debris_diff dummy
 scoreboard objectives add lusi_ancient_debris_initialized dummy
+
+# ベッドでの睡眠回数
+scoreboard objectives add lusi_sleep minecraft.custom:minecraft.sleep_in_bed
+
+scoreboard objectives add lusi_sleep_start dummy
+scoreboard objectives add lusi_sleep_diff dummy
+scoreboard objectives add lusi_sleep_initialized dummy
+
+# mobの繁殖回数
+scoreboard objectives add lusi_animals_bred minecraft.custom:minecraft.animals_bred
+
+scoreboard objectives add lusi_animals_bred_start dummy
+scoreboard objectives add lusi_animals_bred_diff dummy
+scoreboard objectives add lusi_animals_bred_initialized dummy
+
+# 村人との取引回数
+scoreboard objectives add lusi_trade minecraft.custom:minecraft.traded_with_villager
+
+scoreboard objectives add lusi_trade_start dummy
+scoreboard objectives add lusi_trade_diff dummy
+scoreboard objectives add lusi_trade_initialized dummy

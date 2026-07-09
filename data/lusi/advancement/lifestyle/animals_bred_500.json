@@ -1,17 +1,17 @@
 {
-  "parent": "lusi:movement/root",
+  "parent": "lusi:lifestyle/animals_bred_100",
   "display": {
     "icon": {
-      "id": "minecraft:leather_boots"
+      "id": "minecraft:wheat"
     },
-    "title": "旅の始まり",
-    "description": "25,000m歩く",
+    "title": "大牧場主",
+    "description": "動物を500回繁殖させる",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true
   },
   "criteria": {
-    "manual": {
+    "requirement": {
       "trigger": "minecraft:impossible"
     }
   }

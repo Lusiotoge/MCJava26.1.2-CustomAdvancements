@@ -1,17 +1,17 @@
 {
-  "parent": "lusi:movement/root",
+  "parent": "lusi:lifestyle/sleep_50",
   "display": {
     "icon": {
-      "id": "minecraft:leather_boots"
+      "id": "minecraft:red_bed"
     },
-    "title": "旅の始まり",
-    "description": "25,000m歩く",
+    "title": "安眠マスター",
+    "description": "ベッドで100回眠る",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true
   },
   "criteria": {
-    "manual": {
+    "requirement": {
       "trigger": "minecraft:impossible"
     }
   }

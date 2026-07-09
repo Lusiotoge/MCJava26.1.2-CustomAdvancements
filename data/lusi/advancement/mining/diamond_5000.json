@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/diamond_1000",
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond"
+    },
+    "title": "MASTER OF DIAMOND",
+    "description": "ダイヤモンド鉱石を5000個採掘する",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/quartz_1000",
+  "display": {
+    "icon": {
+      "id": "minecraft:quartz"
+    },
+    "title": "MASTER OF QUARTZ",
+    "description": "ネザークォーツ鉱石を5000個採掘する",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/lapis_1000",
+  "display": {
+    "icon": {
+      "id": "minecraft:lapis_lazuli"
+    },
+    "title": "MASTER OF LAPIS",
+    "description": "鉄鉱石を5000個採掘する",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

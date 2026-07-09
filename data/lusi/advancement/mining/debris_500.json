@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/debris_250",
+  "display": {
+    "icon": {
+      "id": "minecraft:ancient_debris"
+    },
+    "title": "MASTER OF ANCIENT DEBRIS",
+    "description": "古代の残骸を500個採掘する",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

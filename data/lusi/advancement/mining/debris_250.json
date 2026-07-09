@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/debris_100",
+  "display": {
+    "icon": {
+      "id": "minecraft:ancient_debris"
+    },
+    "title": "古代文明の探究者 Ⅵ",
+    "description": "古代の残骸を250個採掘する",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

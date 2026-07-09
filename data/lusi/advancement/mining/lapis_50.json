@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/lapis_25",
+  "display": {
+    "icon": {
+      "id": "minecraft:lapis_lazuli"
+    },
+    "title": "幸運の青 Ⅲ",
+    "description": "鉄鉱石を50個採掘する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

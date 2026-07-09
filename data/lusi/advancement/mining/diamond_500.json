@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/diamond_100",
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond"
+    },
+    "title": "財宝発見 Ⅴ",
+    "description": "ダイヤモンド鉱石を500個採掘する",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

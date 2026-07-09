@@ -84,7 +84,42 @@ scoreboard objectives add lusi_redstone_diff dummy
 scoreboard objectives add lusi_redstone_initialized dummy
 
 # ラピス採掘数
+scoreboard objectives add lusi_lapis minecraft.mined:minecraft.lapis_ore
+scoreboard objectives add lusi_deepslate_lapis minecraft.mined:minecraft.deepslate_lapis_ore
+
+scoreboard objectives add lusi_lapis_total dummy
+scoreboard objectives add lusi_lapis_start dummy
+scoreboard objectives add lusi_lapis_diff dummy
+scoreboard objectives add lusi_lapis_initialized dummy
+
 # ダイヤ採掘数
+scoreboard objectives add lusi_diamond minecraft.mined:minecraft.diamond_ore
+scoreboard objectives add lusi_deepslate_diamond minecraft.mined:minecraft.deepslate_diamond_ore
+
+scoreboard objectives add lusi_diamond_total dummy
+scoreboard objectives add lusi_diamond_start dummy
+scoreboard objectives add lusi_diamond_diff dummy
+scoreboard objectives add lusi_diamond_initialized dummy
+
 # エメラルド採掘数
-# クオーツ採掘数
+scoreboard objectives add lusi_emerald minecraft.mined:minecraft.emerald_ore
+scoreboard objectives add lusi_deepslate_emerald minecraft.mined:minecraft.deepslate_emerald_ore
+
+scoreboard objectives add lusi_emerald_total dummy
+scoreboard objectives add lusi_emerald_start dummy
+scoreboard objectives add lusi_emerald_diff dummy
+scoreboard objectives add lusi_emerald_initialized dummy
+
+# ネザークオーツ採掘数
+scoreboard objectives add lusi_quartz minecraft.mined:minecraft.nether_quartz_ore
+
+scoreboard objectives add lusi_quartz_start dummy
+scoreboard objectives add lusi_quartz_diff dummy
+scoreboard objectives add lusi_quartz_initialized dummy
+
 # ネザライト採掘数
+scoreboard objectives add lusi_ancient_debris minecraft.mined:minecraft.ancient_debris
+
+scoreboard objectives add lusi_ancient_debris_start dummy
+scoreboard objectives add lusi_ancient_debris_diff dummy
+scoreboard objectives add lusi_ancient_debris_initialized dummy

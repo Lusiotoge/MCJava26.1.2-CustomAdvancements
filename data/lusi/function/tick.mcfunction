@@ -28,6 +28,20 @@ function lusi:mining/gold
 # 赤石採掘処理
 function lusi:mining/redstone
 
+# ラピス採掘処理
+function lusi:mining/lapis
+
+# ダイヤ採掘処理
+function lusi:mining/diamond
+
+# エメラルド採掘処理
+function lusi:mining/emerald
+
+# ネザークオーツ採掘処理
+function lusi:mining/quartz
+
+# 古代の残骸採掘処理
+function lusi:mining/ancient_debris
 
 # 次tick予約
 schedule function lusi:tick 1t replace

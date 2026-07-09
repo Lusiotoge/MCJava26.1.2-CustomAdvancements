@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:mining/emerald_10",
+  "display": {
+    "icon": {
+      "id": "minecraft:emerald"
+    },
+    "title": "翠玉収集家 Ⅱ",
+    "description": "エメラルド鉱石を25個採掘する",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

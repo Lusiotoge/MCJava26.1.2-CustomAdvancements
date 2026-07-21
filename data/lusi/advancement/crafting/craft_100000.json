@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:crafting/craft_50000",
+  "display": {
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": "創造の極致",
+    "description": "レシピを100000回クラフトする",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

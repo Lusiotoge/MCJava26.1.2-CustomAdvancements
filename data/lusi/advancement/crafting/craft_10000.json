@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:crafting/craft_5000",
+  "display": {
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": "工房の主",
+    "description": "レシピを10000回クラフトする",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

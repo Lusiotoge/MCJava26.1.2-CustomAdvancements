@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": "工作台デビュー",
+    "description": "レシピを100回クラフトする",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

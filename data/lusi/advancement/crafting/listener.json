@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "craft": {
+      "trigger": "minecraft:recipe_crafted"
+    }
+  },
+  "rewards": {
+    "function": "lusi:crafting/add"
+  }
+}

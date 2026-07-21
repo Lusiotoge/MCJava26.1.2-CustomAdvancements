@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:crafting/craft_100",
+  "display": {
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": "手慣れた職人",
+    "description": "レシピを250回クラフトする",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

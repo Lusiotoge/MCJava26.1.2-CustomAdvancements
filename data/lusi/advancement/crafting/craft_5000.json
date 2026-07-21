@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:crafting/craft_2500",
+  "display": {
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": "クラフトマスター",
+    "description": "レシピを5000回クラフトする",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/spider_300",
+  "display": {
+    "icon": {
+      "id": "minecraft:spider_eye"
+    },
+    "title": "巣穴制圧",
+    "description": "クモを400体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

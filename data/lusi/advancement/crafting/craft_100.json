@@ -1,5 +1,5 @@
 {
-  "parent": "lusi:root",
+  "parent": "lusi:crafting/root",
   "display": {
     "icon": {
       "id": "minecraft:crafting_table"

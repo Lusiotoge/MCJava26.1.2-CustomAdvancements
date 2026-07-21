@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/witch_300",
+  "display": {
+    "icon": {
+      "id": "minecraft:potion"
+    },
+    "title": "怪しい実験",
+    "description": "ウィッチを400体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

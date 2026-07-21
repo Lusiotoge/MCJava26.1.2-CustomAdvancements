@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/enderman_400",
+  "display": {
+    "icon": {
+      "id": "minecraft:ender_pearl"
+    },
+    "title": "真珠収集家",
+    "description": "エンダーマンを500体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

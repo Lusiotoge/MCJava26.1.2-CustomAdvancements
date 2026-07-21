@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/creeper_100",
+  "display": {
+    "icon": {
+      "id": "minecraft:creeper_head"
+    },
+    "title": "導火線切り",
+    "description": "クリーパーを200体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

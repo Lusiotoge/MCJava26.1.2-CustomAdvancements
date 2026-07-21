@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/husk_400",
+  "display": {
+    "icon": {
+      "id": "minecraft:rotten_flesh"
+    },
+    "title": "砂漠の守護者",
+    "description": "ハスクを500体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

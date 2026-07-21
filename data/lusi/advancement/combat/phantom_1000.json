@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/phantom_500",
+  "display": {
+    "icon": {
+      "id": "minecraft:phantom_membrane"
+    },
+    "title": "夜の番人",
+    "description": "ファントムを1000体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

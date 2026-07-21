@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/slime_200",
+  "display": {
+    "icon": {
+      "id": "minecraft:slime_ball"
+    },
+    "title": "弾む相手もお手の物",
+    "description": "スライムを300体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

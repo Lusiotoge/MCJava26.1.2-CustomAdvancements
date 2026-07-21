@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/enderman_1000",
+  "display": {
+    "icon": {
+      "id": "minecraft:ender_pearl"
+    },
+    "title": "次元の征服者",
+    "description": "エンダーマンを2500体倒す",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

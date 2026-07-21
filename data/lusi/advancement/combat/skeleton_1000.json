@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/skeleton_500",
+  "display": {
+    "icon": {
+      "id": "minecraft:skeleton_skull"
+    },
+    "title": "白骨軍壊滅",
+    "description": "スケルトンを1000体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

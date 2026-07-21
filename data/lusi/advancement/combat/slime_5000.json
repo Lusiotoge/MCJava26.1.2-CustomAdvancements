@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/slime_2500",
+  "display": {
+    "icon": {
+      "id": "minecraft:slime_ball"
+    },
+    "title": "粘液の天敵",
+    "description": "スライムを5000体倒す",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

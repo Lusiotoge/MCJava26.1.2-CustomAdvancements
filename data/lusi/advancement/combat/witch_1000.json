@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/witch_500",
+  "display": {
+    "icon": {
+      "id": "minecraft:potion"
+    },
+    "title": "魔法無効",
+    "description": "ウィッチを1000体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

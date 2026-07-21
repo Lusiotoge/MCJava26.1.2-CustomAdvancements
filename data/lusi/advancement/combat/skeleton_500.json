@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/skeleton_400",
+  "display": {
+    "icon": {
+      "id": "minecraft:skeleton_skull"
+    },
+    "title": "骸骨狩り",
+    "description": "スケルトンを500体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

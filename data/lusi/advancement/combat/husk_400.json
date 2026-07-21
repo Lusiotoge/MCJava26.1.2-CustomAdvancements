@@ -1,0 +1,18 @@
+{
+  "parent": "lusi:combat/husk_300",
+  "display": {
+    "icon": {
+      "id": "minecraft:rotten_flesh"
+    },
+    "title": "灼熱の討伐者",
+    "description": "ハスクを400体倒す",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
